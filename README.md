@@ -6,9 +6,13 @@
 [![Download Zip](https://img.shields.io/badge/Download_v1.0.0-ZIP-blue?style=for-the-badge&logo=zip)](https://github.com/Kirilka4345/telegram-crypto-shop-ai-bot/releases/download/v1.0.0/Telegram-Crypto-Shop-Bot-v1.0.zip)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://python.org)
 [![Tests: Passing](https://img.shields.io/badge/Tests-4%2F4%20Passing-success?style=for-the-badge&logo=python)](tests/test_shop_bot.py)
+[![Buy on Gumroad](https://img.shields.io/badge/Buy_on_Gumroad-$39-ff90e8?style=for-the-badge&logo=gumroad)](https://kirillopen.gumroad.com/l/gbxqtx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
+
+
+> 🛍️ **Instant Download & Commercial License:** [Buy Telegram Crypto Shop AI Bot on Gumroad ($39)](https://kirillopen.gumroad.com/l/gbxqtx)
 
 ## 🚀 Overview
 
