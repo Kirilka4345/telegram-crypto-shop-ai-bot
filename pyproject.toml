@@ -6,18 +6,18 @@ build-backend = "setuptools.build_meta"
 name = "telegram-crypto-shop-bot"
 version = "1.1.0"
 authors = [
-  { name="Kirill", email="kirillopen4345@gmail.com" },
+  { name="Kirill" },
 ]
-description = "Automated Telegram E-Commerce Bot with Crypto Invoicing (TON & USDT)"
+description = "A Python prototype for rendering a sample digital catalog and TON payment links."
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
 [project.urls]
 "Homepage" = "https://github.com/Kirilka4345/telegram-crypto-shop-ai-bot"
-"Commercial License" = "https://kirillopen.gumroad.com/l/gbxqtx"
-"Funding" = "https://kirillopen.gumroad.com"
+
+[tool.setuptools]
+py-modules = ["bot"]
