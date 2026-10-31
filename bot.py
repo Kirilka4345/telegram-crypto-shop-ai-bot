@@ -43,3 +43,4 @@ def get_catalog_markdown() -> str:
 if __name__ == "__main__":
     print("Catalog Preview:\n")
     print(get_catalog_markdown())
+
